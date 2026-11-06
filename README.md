@@ -17,6 +17,10 @@ En TP (décembre 2024), des petits robots autonomes faisaient la course. La pist
 
 Une caméra au plafond permettait de suivre la course sur l'ordinateur. J'avais le robot orange, et j'ai gagné.
 
+![La vraie course : barrières rouges et noires, mon robot orange en haut](img/course-tp.jpg)
+
+*Image tirée de ma vidéo de la course, recadrée sur la piste. Mon robot est l'orange, en haut, sur la ligne droite du retour.*
+
 **Le programme d'origine est perdu.** Ce dépôt est une **simulation refaite de zéro en 2026**. Ce n'est pas le programme de 2024. Les valeurs du robot, des capteurs et de la caméra sont des **hypothèses** (ordres de grandeur).
 
 ### Le modèle
